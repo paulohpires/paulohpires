@@ -7,7 +7,7 @@ Hi there, I'm Paulo Pires
 - 🔭 I’m currently working on Electrical engineering ⚡ Workshops and lectures
 - 🌱 I’m currently learning React
 - 💬 Ask me about Anything
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: He/Him
 
 <div align="center">
   <a href="https://github.com/paulohpires">
